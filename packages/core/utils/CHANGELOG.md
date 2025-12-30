@@ -1,5 +1,14 @@
 # @medusajs/utils
 
+## 2.12.4
+
+### Patch Changes
+
+- [#14395](https://github.com/medusajs/medusa/pull/14395) [`001923da2bbebb3d42373f0f66e517830d9c0187`](https://github.com/medusajs/medusa/commit/001923da2bbebb3d42373f0f66e517830d9c0187) Thanks [@peterlgh7](https://github.com/peterlgh7)! - add Medusa Cloud auth provider
+
+- Updated dependencies []:
+  - @medusajs/deps@2.12.4
+
 ## 2.12.3
 
 ### Patch Changes

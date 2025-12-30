@@ -1,5 +1,11 @@
 # @medusajs/js-sdk
 
+## 2.12.4
+
+### Patch Changes
+
+- [#14355](https://github.com/medusajs/medusa/pull/14355) [`b21a599d118f126e64d2993d46ba60f4a4e94545`](https://github.com/medusajs/medusa/commit/b21a599d118f126e64d2993d46ba60f4a4e94545) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(): Translation settings + user configuration + js/admin
+
 ## 2.12.3
 
 ### Patch Changes
